@@ -1,0 +1,1 @@
+print("To jest drugie zadanie mojego pierwszego projektu")

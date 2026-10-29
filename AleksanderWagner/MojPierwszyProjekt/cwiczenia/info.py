@@ -1,0 +1,1 @@
+print("To znowu ja python jakby co")

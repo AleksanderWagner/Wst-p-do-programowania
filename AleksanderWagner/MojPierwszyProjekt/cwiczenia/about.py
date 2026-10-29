@@ -1,0 +1,1 @@
+print("Siemka tu python")
